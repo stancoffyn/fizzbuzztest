@@ -1,0 +1,14 @@
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\bin\Debug\fizzbuzztest.exe.config
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\bin\Debug\fizzbuzztest.exe
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\bin\Debug\fizzbuzztest.pdb
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.exe
+C:\Users\Matthew\source\repos\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.pdb
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\bin\Debug\fizzbuzztest.exe.config
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\bin\Debug\fizzbuzztest.exe
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\bin\Debug\fizzbuzztest.pdb
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.csprojResolveAssemblyReference.cache
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.exe
+C:\Projects\dotnet\Experiments\fizzbuzztest\fizzbuzztest\obj\Debug\fizzbuzztest.pdb
